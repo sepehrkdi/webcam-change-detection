@@ -1,0 +1,11 @@
+# Ignore virtual environment
+webcam/
+
+# Ignore captured images
+*.jpg
+*.png
+
+# Ignore editor/system files
+.vscode/
+__pycache__/
+*.pyc
